@@ -23,3 +23,10 @@ EXPOSE 80
 
 # Start Nginx
 CMD ["nginx", "-g", "daemon off;"]
+
+
+
+# git init
+# git remote set-url origin https://github.com/BinodPrajapati/my-react-app.git
+# git push --set-upstream origin master
+
